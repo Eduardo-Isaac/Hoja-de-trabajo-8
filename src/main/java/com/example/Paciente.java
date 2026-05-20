@@ -1,4 +1,4 @@
-package uvg.edu.gt;
+package com.example;
 
 //Clase que representa la ficha de un paciente en la sección de Emergencias.
 public class Paciente implements Comparable<Paciente> {
