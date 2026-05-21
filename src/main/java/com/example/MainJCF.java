@@ -1,4 +1,4 @@
-package uvg.edu.gt;
+package com.example;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
